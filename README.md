@@ -35,12 +35,12 @@ if(a.value=="" || b.value==""){
 f() 
 document.getElementById("a").style.border="3px solid red" 
 document.getElementById("b").style.border="3px solid red" 
-bt.value="Pahila data tak" 
+bt.value="sala age form fillup kor" 
 } 
 else{ 
 document.getElementById("a").style.border="3px solid green" 
 document.getElementById("b").style.border="3px solid green" 
-bt.value="Ha thik ahe ata" 
+bt.value="ekhon thik ase" 
 bt.style.left="120px"; 
 } 
 } 
@@ -65,7 +65,7 @@ flag=1
 <p>Enter Confirm Pass</p> 
 <input class="in" type="password" placeholder="Enter password" id="b"/> 
 <br> 
-<input type="submit" onmouseenter="fa()" onclick="alert('waaaa')" id="bt" /> 
+<input type="submit" onmouseenter="fa()" onclick="alert('Fuck')" id="bt" /> 
 
 </div> 
 
